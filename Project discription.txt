@@ -1,0 +1,22 @@
+My Self Naveen kumar
+I have 3.4 years of experience in java
+my last project was RMCC means Response Incident Management communication center
+my last client was UPRR means Union Pacific Rail Road
+
+Technologies like JDK 1.7 & 1.8, Hibernate, Spring Jpa Repository, Spring IOC, Spring MVC, Spring BOOT
+and data base like oracle which having basic experience
+
+Comming for my project  When a critical incident does occur, RMCC responds with a notification to emergency services within two minutes.
+Here Prevention is Every day, RMCC has the opportunity to prevent train
+collisions, detrainments, loss of life, limb, and property. All processes,
+procedures, and protocols are designed to accomplish the prevention of critical incidents.
+
+the main adavantage of my project we want to trace the incident where it will happend that incident 
+and how many people will participatent in that incident will they comes under private employee
+or general public
+
+and Comming for roles and responsebilities
+I was invalued in unit test cases using Mockito
+I was invalued in spring configuration and dao layer and service layer
+I have used build tool like maven and Git Hub repository for
+check in and check out purpose and these are roles and responsebilites in my project
